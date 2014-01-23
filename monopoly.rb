@@ -17,7 +17,7 @@ puts cheap_property[:price]
 
 #Q2. How much does it cost to buy Boardwalk?
 #A2: Your code goes here:
-
+puts rich_property[:price]
 
 
 #Q3. How much is rent for Baltic?
